@@ -11,7 +11,7 @@ The file `suitcase.txt` contains items to be packed into a suitcase (you might n
 
 ## Step 3
 
-Switch to the main branch and merge the changes from your branch into the main branch (command line: `git checkout main`, followed by `git merge MYBRANCHNAME`). This will likely result in a merge commit, which you need to resolve now. Commit your changes.
+Switch to the main branch, pull changes from the remote repository (if there are any) and merge the changes from your branch into the main branch (command line: `git checkout main`, followed by `git pull` and `git merge MYBRANCHNAME`). This will likely result in a merge commit, which you need to resolve now. Commit your changes.
 
-Push your changes to the remote repository. If this gives you more conflicts, you'll need to pull the new stuff from the server, resolve conflicts, and push again.
+Push your changes to the remote repository. If this results in more conflicts, you'll need to pull the new stuff from the server, resolve conflicts, and push again.
 
