@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ich packe meinen Koffer und nehme mit: Eine Sonnenbrille, einen Fußball...
+=======
+Ich packe meinen Koffer und nehme mit: Eine Sonnenbrille, einen Fußball, eine Soundkarte
+>>>>>>> dliebeze
