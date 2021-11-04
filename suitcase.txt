@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Ich packe meinen Koffer und nehme mit: Eine Sonnenbrille, ein Bett im Kornfeld, eine Soundkarte, eine Katze, ein Zelt, einen Bierpongtisch
+Ich packe meinen Koffer und nehme mit: Eine Sonnenbrille, ein Bett im Kornfeld, eine Soundkarte, eine Katze, ein Zelt, einen Bierpongtisch, ein Buch
 
-=======
-Ich packe meinen Koffer und nehme mit: Eine Sonnenbrille, ein Bett im Kornfeld, eine Soundkarte, eine Katze, ein Zelt, einen Bierpongtisch
->>>>>>> 2094cb6760eb4a86e8828b9b55738f644a311c9d
